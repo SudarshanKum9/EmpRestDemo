@@ -21,6 +21,7 @@ public class EmpController {
 		emps.add(new Emp(2,"Rahul"));
 		emps.add(new Emp(3,"Vikas"));
 		emps.add(new Emp(4,"Abhishek Sharma"));
+		emps.add(new Emp(4,"Virat Kohli"));
 		return emps;
 		
 	}
